@@ -1,0 +1,4 @@
+# application.properties.example
+spring.application.name=DeliveryApp1
+spring.data.mongodb.uri=your_mongodb_uri_here
+springdoc.api-docs.path=/custom-docs
